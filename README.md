@@ -18,4 +18,5 @@ Since it is using you current env var $USER to create it, the format can be unde
 
 # Credits
 Juduval for the features
+
 Tgibier for the Makefile template
